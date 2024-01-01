@@ -44,7 +44,7 @@ public class LoanManagement
                         repayLoan();
                         break;
                     case 5:
-                        System.out.println("Exiting Loan Management System. Goodbye!");
+                        System.out.println("Exiting Loan Management System. Thank you!");
                         scanner.close();
                         System.exit(0);
                     default:
